@@ -209,12 +209,6 @@ def life_motto():
     return "Break it, Fix it, Secure it, Repeat! 🔁"
 ```
 
-### 🐍 Watch the Snake Eat My Contributions!
-
-![Snake animation](https://raw.githubusercontent.com/PiyushSatyarthi/PiyushSatyarthi/output/github-contribution-grid-snake-dark.svg)
-
----
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 **⭐ From your [Piyush Satyarthi](https://github.com/PiyushSatyarthi) with 💚**
