@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey there! I'm [Your Name]
+# 👋 Hey there! I'm Piyush satyarthi
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=600&lines=Security+Researcher;Bug+Hunter;Full+Stack+Developer;AI+%26+ML+Enthusiast;Cloud+Architect" alt="Typing SVG" />
 
