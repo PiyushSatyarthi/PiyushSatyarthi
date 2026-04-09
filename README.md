@@ -15,30 +15,6 @@
 </div>
 
 ---
-
-## 🎯 About Me
-
-```python
-class SecurityResearcher:
-    def __init__(self):
-        self.name = "Your Name"
-        self.role = "Security Researcher & Full Stack Developer"
-        self.location = "Dhanbad, Jharkhand, India 🇮🇳"
-        self.interests = [
-            "Cybersecurity 🔐",
-            "Penetration Testing 🎯",
-            "Bug Bounty Hunting 🐛",
-            "AI & Machine Learning 🤖",
-            "Cloud Architecture ☁️"
-        ]
-        
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something secure together!")
-
-me = SecurityResearcher()
-me.say_hi()
-```
-
 <div align="center">
   
 ### 🔐 I break things to make them secure 💪
